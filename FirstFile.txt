@@ -1,0 +1,3 @@
+Documentação de Requisitos do Projeto:
+- Requisito 1: O sistema deve permitir login seguro.
+- Requisito 2: O sistema deve armazenar logs de auditoria.
